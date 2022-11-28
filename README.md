@@ -12,10 +12,10 @@ This webpage can by used to view the full database of UFO sightings, or to filte
 To filter your search, simply type out the filter located on the left side of the webpage, and hit return.
 
 In the example below, I am filtering for all UFO sighting from the state of Arkansas.
-![This is an image](/static/images/assets/images/filter.png)
+![This is an image](/static/images/filter.png)
 
 This form automatically will filter the database to show the three UFO sighting from this state.
-![This is an image](/static/images/assets/images/filtereddatabase.png)
+![This is an image](/static/images/filtereddatabase.png)
 
 ## Summary
 
